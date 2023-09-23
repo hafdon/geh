@@ -1,0 +1,6 @@
+verbosity: INFO
+log-file: pandoc-log.txt
+input-file: geh017_transcript.md
+output-file: geh017_transcript.pdf
+metadata-file:
+- meta.yaml
